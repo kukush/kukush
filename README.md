@@ -1,6 +1,6 @@
-### Hi, I'm [Tesfaye Alemu Getahun] 👋
+### Hi, I'm Tesfaye Alemu Getahun 👋
 
-I am a **[Senior Software Engineer || Software and Platform Architecture]** focused [on innovation, startup development, and building technology solutions that create real value across Africa]. 
+I am a **Senior Software Engineer || Software and Platform Architecture ** focused on innovation, startup development, and building technology solutions that create real value across Africa. 
 
 🌐 **[Explore My Full Portfolio Website](https://kukush.github.io/portfolio/)** 
 
