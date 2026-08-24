@@ -2,6 +2,7 @@
 
 I am a Senior Software Engineer || Software and Platform Architecture  focused on innovation, startup development, and building technology solutions that create real value across Africa. 
   * **Competence:** Cloud Architecture, Product Engineering, Startup Innovation ,AI || MCP,IIOT
+    
 🌐 **[Explore My Full Portfolio Website](https://kukush.github.io/portfolio/)** 
 
 ### 🛠️ Tech Stack & Tools
