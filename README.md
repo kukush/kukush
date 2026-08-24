@@ -1,4 +1,21 @@
-## Hi there 👋
+### Hi, I'm [Tesfaye Alemu Getahun] 👋
+
+I am a **[Senior Software Engineer || Software and Platform Architecture]** focused [on innovation, startup development, and building technology solutions that create real value across Africa]. 
+
+🌐 **[Explore My Full Portfolio Website](https://kukush.github.io/portfolio/)** 
+
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** JavaScript, TypeScript, Python
+* **Frameworks:** React, Next.js, Node.js
+* **Tools/Cloud:** Git, Docker, AWS
+
+### 📊 GitHub Analytics
+
+### 🤝 Connect With Me
+
+* **LinkedIn:** [linkedin.com/in/tesfaye-alemu-getahun](https://linkedin.com/in/tesfaye-alemu-getahun-bb715136)
+* **Email:** kelo.labs.dev@gmail.com## Hi there 👋
 
 <!--
 **kukush/kukush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
