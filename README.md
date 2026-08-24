@@ -16,7 +16,7 @@ I am a Senior Software Engineer || Software and Platform Architecture  focused o
 ### 🤝 Connect With Me
 
 * **LinkedIn:** [linkedin.com/in/tesfaye-alemu-getahun](https://linkedin.com/in/tesfaye-alemu-getahun-bb715136)
-* **Email: kelo.labs.dev@gmail.com
+* Email: kelo.labs.dev@gmail.com
 
 <!--
 **kukush/kukush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
